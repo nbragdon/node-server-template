@@ -8,7 +8,7 @@
     "test": "gulp test",
     "start": "node server.js",
     "prestart": "gulp prestart",
-    "predeploy": "gulp predeply",
+    "predeploy": "gulp predeploy",
     "postdeploy": "gulp postdeploy",
     "prepublish": "gulp prepublish"
   },
