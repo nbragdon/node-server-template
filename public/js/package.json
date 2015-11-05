@@ -1,0 +1,9 @@
+{
+  "name": "node-server-template-front-end",
+  "version": "0.0.1",
+  "dependencies": {
+    "flux": "^2.1.1",
+    "lodash": "^3.10.1",
+    "react": "^0.14.2"
+  }
+}

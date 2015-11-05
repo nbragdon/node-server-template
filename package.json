@@ -28,8 +28,14 @@
     "babel"
   ],
   "dependencies": {
+    "acl": "^0.4.9",
+    "bluebird": "^3.0.5",
+    "dynamodb": "^0.3.6",
     "express": "^4.13.3",
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.1",
+    "pg": "^4.4.3",
+    "react": "^0.14.2",
+    "redis": "^2.3.0"
   },
   "devDependencies": {
     "babel-core": "^5.8.29",
